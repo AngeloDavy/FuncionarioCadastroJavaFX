@@ -143,8 +143,6 @@ public class CadastroFuncionarioView extends javax.swing.JFrame {
             }
         });
 
-        lblIdAux.setText("jLabel1");
-
         javax.swing.GroupLayout pnlInformacoesLayout = new javax.swing.GroupLayout(pnlInformacoes);
         pnlInformacoes.setLayout(pnlInformacoesLayout);
         pnlInformacoesLayout.setHorizontalGroup(
@@ -183,7 +181,7 @@ public class CadastroFuncionarioView extends javax.swing.JFrame {
                 .addGroup(pnlInformacoesLayout.createParallelGroup(javax.swing.GroupLayout.Alignment.BASELINE)
                     .addComponent(lblSetor)
                     .addComponent(txtSetor, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE))
-                .addContainerGap(160, Short.MAX_VALUE))
+                .addContainerGap(176, Short.MAX_VALUE))
         );
 
         jTabbedPane1.addTab("Informações", pnlInformacoes);

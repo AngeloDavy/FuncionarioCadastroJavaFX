@@ -224,7 +224,7 @@
                           <Component id="lblSetor" alignment="3" min="-2" max="-2" attributes="0"/>
                           <Component id="txtSetor" alignment="3" min="-2" max="-2" attributes="0"/>
                       </Group>
-                      <EmptySpace pref="160" max="32767" attributes="0"/>
+                      <EmptySpace pref="176" max="32767" attributes="0"/>
                   </Group>
               </Group>
             </DimensionLayout>
@@ -255,9 +255,6 @@
             <Component class="javax.swing.JTextField" name="txtSetor">
             </Component>
             <Component class="javax.swing.JLabel" name="lblIdAux">
-              <Properties>
-                <Property name="text" type="java.lang.String" value="jLabel1"/>
-              </Properties>
             </Component>
           </SubComponents>
         </Container>
